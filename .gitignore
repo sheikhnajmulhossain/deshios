@@ -1,0 +1,17 @@
+.cache/
+.build/
+binary/
+chroot/
+local/
+tmp/
+*.iso
+*.img
+*.squashfs
+*.log
+live-image-*
+DeshiOS-*.iso
+node_modules/
+.next/
+.open-next/
+.DS_Store
+Thumbs.db
