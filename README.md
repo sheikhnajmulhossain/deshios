@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://deshios.com/brand/deshios-logo.png" alt="DeshiOS" width="180">
+<img src="https://deshios.com/images/deshios-logo.png" alt="DeshiOS" width="180">
 
 # DeshiOS
 
