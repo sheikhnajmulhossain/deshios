@@ -2,8 +2,6 @@
 
 <img src="https://deshios.com/images/deshios-logo.png" alt="DeshiOS" width="180">
 
-# DeshiOS
-
 ### A clean, open source desktop operating system
 
 **Open source • Fast • Clean • Customizable**
